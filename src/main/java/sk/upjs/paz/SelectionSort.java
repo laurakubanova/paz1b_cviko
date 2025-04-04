@@ -13,6 +13,7 @@ public class SelectionSort extends TriediaciAlgoritmus {
                 }
             }
             //robim pushik
+            //robim pushik 2
             vymen(i, minIdx);
             vypisPole();
         }
