@@ -12,6 +12,7 @@ public class SelectionSort extends TriediaciAlgoritmus {
                     //keby robime vymen v cykle tak by sme mali viac vymen
                 }
             }
+            //robim push
             vymen(i, minIdx);
             vypisPole();
         }
